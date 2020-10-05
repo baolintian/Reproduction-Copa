@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Document-CN.aux
 The style file: plain.bst
 Database file #1: enhance-ref.bib
-You've used 18 entries,
+You've used 23 entries,
             2118 wiz_defined-function locations,
-            622 strings with 9472 characters,
-and the built_in function-call counts, 9586 in all, are:
-= -- 904
-> -- 630
+            652 strings with 10198 characters,
+and the built_in function-call counts, 11184 in all, are:
+= -- 1054
+> -- 723
 < -- 13
-+ -- 234
-- -- 215
-* -- 717
-:= -- 1536
-add.period$ -- 67
-call.type$ -- 18
-change.case$ -- 144
++ -- 271
+- -- 247
+* -- 826
+:= -- 1806
+add.period$ -- 82
+call.type$ -- 23
+change.case$ -- 175
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 334
-empty$ -- 652
-format.name$ -- 215
-if$ -- 2061
+cite$ -- 23
+duplicate$ -- 377
+empty$ -- 776
+format.name$ -- 247
+if$ -- 2387
 int.to.chr$ -- 0
-int.to.str$ -- 18
-missing$ -- 15
-newline$ -- 93
-num.names$ -- 60
-pop$ -- 178
+int.to.str$ -- 23
+missing$ -- 17
+newline$ -- 118
+num.names$ -- 70
+pop$ -- 217
 preamble$ -- 1
-purify$ -- 126
+purify$ -- 152
 quote$ -- 0
-skip$ -- 279
+skip$ -- 318
 stack$ -- 0
-substring$ -- 515
-swap$ -- 140
+substring$ -- 602
+swap$ -- 145
 text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 72
+type$ -- 92
 warning$ -- 0
-while$ -- 90
-width$ -- 20
-write$ -- 208
+while$ -- 104
+width$ -- 25
+write$ -- 257
