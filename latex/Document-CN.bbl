@@ -62,6 +62,15 @@ Radhika Mittal, Vinh~The Lam, Nandita Dukkipati, Emily~R. Blem, Hassan M.~G.
   Group on Data Communication, {SIGCOMM} 2015, London, United Kingdom, August
   17-21, 2015}, pages 537--550. {ACM}, 2015.
 
+\bibitem{DBLP:conf/sigcomm/NarayanCRGNMAB18}
+Akshay Narayan, Frank Cangialosi, Deepti Raghavan, Prateesh Goyal, Srinivas
+  Narayana, Radhika Mittal, Mohammad Alizadeh, and Hari Balakrishnan.
+\newblock Restructuring endpoint congestion control.
+\newblock In Sergey Gorinsky and J{\'{a}}nos Tapolcai, editors, {\em
+  Proceedings of the 2018 Conference of the {ACM} Special Interest Group on
+  Data Communication, {SIGCOMM} 2018, Budapest, Hungary, August 20-25, 2018},
+  pages 30--43. {ACM}, 2018.
+
 \bibitem{bbrv2}
 Soheil Hassas~Yeganeh Neal~Cardwell.
 \newblock Bbr implementation.
