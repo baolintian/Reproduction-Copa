@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.18)  5 OCT 2020 22:19
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.18)  5 OCT 2020 22:33
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1792,18 +1792,18 @@ Package fontspec Info: Font family 'KaiTi(0)' created for font 'KaiTi' with
 
 
 LaTeX Font Warning: Font shape `TU/KaiTi(0)/b/n' undefined
-(Font)              using `TU/KaiTi(0)/m/n' instead on input line 121.
+(Font)              using `TU/KaiTi(0)/m/n' instead on input line 126.
 
 
 LaTeX Font Warning: Font shape `TU/bch/m/it' undefined
-(Font)              using `TU/bch/m/n' instead on input line 121.
+(Font)              using `TU/bch/m/n' instead on input line 126.
 
 
 LaTeX Font Warning: Font shape `TU/KaiTi(0)/m/it' undefined
-(Font)              using `TU/KaiTi(0)/m/n' instead on input line 121.
+(Font)              using `TU/KaiTi(0)/m/n' instead on input line 126.
 
 
-Overfull \hbox (4.61612pt too wide) in paragraph at lines 127--128
+Overfull \hbox (4.61612pt too wide) in paragraph at lines 132--133
 []\TU/SimSun(0)/m/n/12 当 目 前 拥 塞 控 制 窗 口 的 大 小 超 过 原 来 预 设 的 定 值 的 时 候，|  开 始 每
  一 个 \TU/bch/m/it/12 RTT\TU/SimSun(0)/m/n/12 ，| \TU/bch/m/it/12 cwnd+1\TU/SimSu
 n(0)/m/n/12 ，|
@@ -1820,12 +1820,12 @@ File: images/bbr1.png Graphic file (type bmp)
 File: images/bbr.png Graphic file (type bmp)
 <images/bbr.png>
  [10]
-Underfull \hbox (badness 10000) in paragraph at lines 211--213
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
@@ -1877,16 +1877,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--31
 ] [19])
 Package atenddvi Info: Last page = 20.
  [20]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 308.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 308.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 313.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 313.
  (./Document-CN.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 308.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 308.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 313.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 313.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 308.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 313.
  ) 
 Here is how much of TeX's memory you used:
  39430 strings out of 479418
@@ -1895,6 +1895,6 @@ Here is how much of TeX's memory you used:
  56136 multiletter control sequences out of 15000+600000
  553247 words of font info for 147 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,11n,92p,998b,723s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,12n,92p,998b,723s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Document-CN.pdf (20 pages).
