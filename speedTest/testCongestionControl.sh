@@ -8,7 +8,7 @@ then
 	then
 		iperf3 -c $IP -p 5201 -t 60 -P $FLOW -C $CONGESTION > $CONGESTION$FLOW'.txt'
 	else
-		iperf3 -c $IP -p 5201 -t 60 > $CONGESTION'1.txt'
+		iperf3 -c $IP -p 5201 -t 60 -C $CONGESTION > $CONGESTION'1.txt'
     fi
 elif [[ "$CONGESTION" = "reno" ]];
 then
@@ -16,7 +16,7 @@ then
 	then
 		iperf3 -c $IP -p 5201 -t 60 -P $FLOW -C $CONGESTION > $CONGESTION$FLOW'.txt'
 	else
-		iperf3 -c $IP -p 5201 -t 60 > $CONGESTION'1.txt'
+		iperf3 -c $IP -p 5201 -t 60 -C $CONGESTION > $CONGESTION'1.txt'
     fi
 elif [[ "$CONGESTION" = "bbr" ]];
 then
@@ -24,7 +24,7 @@ then
 	then
 		iperf3 -c $IP -p 5201 -t 60 -P $FLOW -C $CONGESTION > $CONGESTION$FLOW'.txt'
 	else
-		iperf3 -c $IP -p 5201 -t 60 > $CONGESTION'1.txt'
+		iperf3 -c $IP -p 5201 -t 60 -C $CONGESTION > $CONGESTION'1.txt'
     fi
 
 elif [[ "$CONGESTION" = "bbrplus" ]];
@@ -33,7 +33,7 @@ then
 	then
 		iperf3 -c $IP -p 5201 -t 60 -P $FLOW -C $CONGESTION > $CONGESTION$FLOW'.txt'
 	else
-		iperf3 -c $IP -p 5201 -t 60 > $CONGESTION'1.txt'
+		iperf3 -c $IP -p 5201 -t 60 -C $CONGESTION > $CONGESTION'1.txt'
     fi
 elif [[ "$CONGESTION" = "tsunami" ]];
 then
@@ -41,7 +41,7 @@ then
 	then
 		iperf3 -c $IP -p 5201 -t 60 -P $FLOW -C $CONGESTION > $CONGESTION$FLOW'.txt'
 	else
-		iperf3 -c $IP -p 5201 -t 60 > $CONGESTION'1.txt'
+		iperf3 -c $IP -p 5201 -t 60 -C $CONGESTION > $CONGESTION'1.txt'
     fi
 elif [[ "$CONGESTION" = "nanqilang" ]];
 then
@@ -49,7 +49,7 @@ then
 	then
 		iperf3 -c $IP -p 5201 -t 60 -P $FLOW -C $CONGESTION > $CONGESTION$FLOW'.txt'
 	else
-		iperf3 -c $IP -p 5201 -t 60 > $CONGESTION'1.txt'
+		iperf3 -c $IP -p 5201 -t 60 -C $CONGESTION > $CONGESTION'1.txt'
     fi
 elif [[ "$CONGESTION" = "lotserver" ]];#iperf3无法在参数中匹配
 then
