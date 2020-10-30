@@ -48,7 +48,7 @@ elif [[ "$CONGESTION" = "nanqinlang" ]];
 then
 	if [[ $FLOW -gt 1 ]];
 	then
-		iperf3 -c $IP -p 5201 -t 30 -P $FLOW -C $CONGESTION > $CONGESTION$FLOW'.txt'
+		iperf3 -c $IP -p 5201 -t 30 -P $FLOW -C $CONGESTION > $DIRECTION$CONGESTION$FLOW'.txt'
 	else
 		iperf3 -c $IP -p 5201 -t 30 -C $CONGESTION > $DIRECTION$CONGESTION'1.txt'
     fi
