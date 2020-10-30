@@ -1,61 +1,61 @@
-./testCongestionControl.sh 144.202.103.115 reno 1 JU
+./testCongestionControl.sh 123.57.223.37 reno 1 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 reno 8 JU
+./testCongestionControl.sh 123.57.223.37 reno 8 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 reno 16 JU
+./testCongestionControl.sh 123.57.223.37 reno 16 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 reno 32 JU
+./testCongestionControl.sh 123.57.223.37 reno 32 JC
 
 
-./testCongestionControl.sh 144.202.103.115 cubic 1 JU
+./testCongestionControl.sh 123.57.223.37 cubic 1 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 cubic 8 JU
+./testCongestionControl.sh 123.57.223.37 cubic 8 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 cubic 16 JU
+./testCongestionControl.sh 123.57.223.37 cubic 16 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 cubic 32 JU
+./testCongestionControl.sh 123.57.223.37 cubic 32 JC
 
 
-./testCongestionControl.sh 144.202.103.115 bbr 1 JU
+./testCongestionControl.sh 123.57.223.37 bbr 1 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 bbr 8 JU
+./testCongestionControl.sh 123.57.223.37 bbr 8 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 bbr 16 JU
+./testCongestionControl.sh 123.57.223.37 bbr 16 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 bbr 32 JU
+./testCongestionControl.sh 123.57.223.37 bbr 32 JC
 
 
-./testCongestionControl.sh 144.202.103.115 bbrplus 1 JU
+./testCongestionControl.sh 123.57.223.37 bbrplus 1 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 bbrplus 8 JU
+./testCongestionControl.sh 123.57.223.37 bbrplus 8 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 bbrplus 16 JU
+./testCongestionControl.sh 123.57.223.37 bbrplus 16 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 bbrplus 32 JU
+./testCongestionControl.sh 123.57.223.37 bbrplus 32 JC
 
 
-./testCongestionControl.sh 144.202.103.115 tsunami 1 JU
+./testCongestionControl.sh 123.57.223.37 tsunami 1 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 tsunami 8 JU
+./testCongestionControl.sh 123.57.223.37 tsunami 8 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 tsunami 16 JU
+./testCongestionControl.sh 123.57.223.37 tsunami 16 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 tsunami 32 JU
+./testCongestionControl.sh 123.57.223.37 tsunami 32 JC
 
 
-./testCongestionControl.sh 144.202.103.115 nanqinlang 1 JU
+./testCongestionControl.sh 123.57.223.37 nanqinlang 1 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 nanqinlang 8 JU
+./testCongestionControl.sh 123.57.223.37 nanqinlang 8 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 nanqinlang 16 JU
+./testCongestionControl.sh 123.57.223.37 nanqinlang 16 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 nanqinlang 32 JU
+./testCongestionControl.sh 123.57.223.37 nanqinlang 32 JC
 
 
-./testCongestionControl.sh 144.202.103.115 lotserver 1 JU
+./testCongestionControl.sh 123.57.223.37 lotserver 1 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 lotserver 8 JU
+./testCongestionControl.sh 123.57.223.37 lotserver 8 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 lotserver 16 JU
+./testCongestionControl.sh 123.57.223.37 lotserver 16 JC
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 lotserver 32 JU
+./testCongestionControl.sh 123.57.223.37 lotserver 32 JC
