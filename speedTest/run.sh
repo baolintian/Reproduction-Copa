@@ -43,13 +43,13 @@ sleep 5;
 ./testCongestionControl.sh 144.202.103.115 tsunami 32 JU
 
 
-./testCongestionControl.sh 144.202.103.115 nanqilang 1 JU
+./testCongestionControl.sh 144.202.103.115 nanqinlang 1 JU
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 nanqilang 8 JU
+./testCongestionControl.sh 144.202.103.115 nanqinlang 8 JU
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 nanqilang 16 JU
+./testCongestionControl.sh 144.202.103.115 nanqinlang 16 JU
 sleep 5;
-./testCongestionControl.sh 144.202.103.115 nanqilang 32 JU
+./testCongestionControl.sh 144.202.103.115 nanqinlang 32 JU
 
 
 ./testCongestionControl.sh 144.202.103.115 lotserver 1 JU

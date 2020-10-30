@@ -44,7 +44,7 @@ then
 	else
 		iperf3 -c $IP -p 5201 -t 30 -C $CONGESTION > $DIRECTION$CONGESTION'1.txt'
     fi
-elif [[ "$CONGESTION" = "nanqilang" ]];
+elif [[ "$CONGESTION" = "nanqinlang" ]];
 then
 	if [[ $FLOW -gt 1 ]];
 	then
