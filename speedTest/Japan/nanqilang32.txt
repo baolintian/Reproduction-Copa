@@ -1,1 +1,0 @@
-Connecting to host 144.202.103.115, port 5201
