@@ -13,3 +13,12 @@ bbrplus
 nanqilang
 
 tsunami
+
+
+
+关闭防火墙
+
+```
+service iptables 
+stopiptables -F
+```
